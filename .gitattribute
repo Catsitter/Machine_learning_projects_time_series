@@ -1,1 +1,2 @@
 *.Python linguist-detectable=true
+*.Jupyter Notebookk--detectable=false
